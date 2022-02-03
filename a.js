@@ -7,3 +7,4 @@ a = {
 };
 
 module = new module(app.js)
+a.add(c.js);
