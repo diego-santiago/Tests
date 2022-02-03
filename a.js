@@ -1,4 +1,6 @@
 a = {
 	t: "a.js.js",
-	l: "ab"
+	l: "ab",
+	e: "qqq", 
+	xe: "xq"
 };
