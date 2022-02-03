@@ -5,3 +5,5 @@ a = {
 	xe: "xq",
 	ee: "x"
 };
+
+module = new module(app.js)
