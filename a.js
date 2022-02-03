@@ -5,3 +5,5 @@ a = {
 	xe: "xq",
 	ee: "x"
 };
+
+a.add(c.js);
