@@ -1,4 +1,5 @@
 b = {
-	t: "b.js",
-	e: "q"
-}
+	very_important_hotfix_here: function(){
+		print('hotfix')
+	}
+};
