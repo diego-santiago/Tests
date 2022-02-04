@@ -8,3 +8,4 @@ a = {
 
 module = new module(app.js)
 a.add(c.js);
+a.add(d.js); //and add more stuff here because of 'd' functionality

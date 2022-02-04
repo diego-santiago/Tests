@@ -4,3 +4,5 @@ d = {
 }
 
 call d();
+
+now = "I've add a lot of more stuff on this feature";
