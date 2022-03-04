@@ -10,7 +10,7 @@ a = {
 };
 
 module = new module(app.js)
-a.add(c.js);
+a.add(c.js, b.js, b.js, a.js, a.js);
 a.add(d.js); //and add more stuff here because of 'd' functionality
 
 
