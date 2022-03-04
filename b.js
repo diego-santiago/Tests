@@ -3,3 +3,10 @@ b = {
 		print('hotfix')
 	}
 };
+
+muitas()
+chamadas()
+legais()
+aqui()
+
+
