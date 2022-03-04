@@ -1,3 +1,4 @@
+#comentario legal
 a = {
 	t: "a.js.js",
 	l: "ab",
